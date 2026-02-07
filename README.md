@@ -324,6 +324,26 @@ The Command Center UI follows **mission-control principles** — prioritizing sa
 
 ## 📸 Screenshots (Add Here)
 
+# 🤖 Companion Robot – Web Demo
+
+🔗 **Live Web App:**  
+https://flutter-ml-web.web.app
+
+---
+
+## 📸 UI Screenshots
+
+### 🎮 Manual Control Interface
+![Manual Control](control_page.png)
+
+### 🤖 Auto Mode Interface
+![Auto Mode](auto_mode.png)
+
+### 🎭 Emotion Display
+![Emotion](Screenshot_20260208_010310)
+
+### 🖥️ Desktop Full Screen View
+![Desktop](desktop_fullscreen.png)
 
 ---
 
