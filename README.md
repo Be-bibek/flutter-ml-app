@@ -322,28 +322,65 @@ The Command Center UI follows **mission-control principles** — prioritizing sa
 
 ---
 
-## 📸 Screenshots (Add Here)
+## 📸 Application Screenshots
 
-# 🤖 Companion Robot – Web Demo
+<table align="center">
+<tr>
 
-🔗 **Live Web App:**  
-https://flutter-ml-web.web.app
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="control_page..jpg" width="300"><br><br>
+<b>Manual Control Panel</b><br>
+Directional and emergency controls
+</td>
 
----
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="chat_interface.jpg" width="300"><br><br>
+<b>AI Chat Interface</b><br>
+Offline command & response system
+</td>
 
-## 📸 UI Screenshots
+</tr>
+</table>
 
-### 🎮 Manual Control Interface
-![Manual Control](control_page.png)
+<br>
 
-### 🤖 Auto Mode Interface
-![Auto Mode](auto_mode.png)
+<table align="center">
+<tr>
 
-### 🎭 Emotion Display
-![Emotion](Screenshot_20260208_010310.jpj)
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="auto_mode.jpg" width="300"><br><br>
+<b>Auto Mode Active</b><br>
+AI-driven autonomous behavior
+</td>
 
-### 🖥️ Desktop Full Screen View
-![Desktop](desktop_fullscreen.png)
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="camera_preview.jpg" width="300"><br><br>
+<b>Camera Preview</b><br>
+Real-time vision input for AI
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="emotion_display.jpg" width="300"><br><br>
+<b>Emotion Display</b><br>
+AI emotion-based visual feedback
+</td>
+
+<td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
+<img src="desktop_fullscreen.jpg" width="300"><br><br>
+<b>Desktop Full-Screen View</b><br>
+Optimized wide-screen layout
+</td>
+
+</tr>
+</table>
 
 ---
 
