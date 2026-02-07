@@ -340,7 +340,7 @@ https://flutter-ml-web.web.app
 ![Auto Mode](auto_mode.png)
 
 ### 🎭 Emotion Display
-![Emotion](Screenshot_20260208_010310)
+![Emotion](Screenshot_20260208_010310.jpj)
 
 ### 🖥️ Desktop Full Screen View
 ![Desktop](desktop_fullscreen.png)
