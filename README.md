@@ -374,7 +374,7 @@ AI emotion-based visual feedback
 </td>
 
 <td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
-<img src="desktop_fullscreen.jpg" width="300"><br><br>
+<img src="desktop_fullscreen.png" width="300"><br><br>
 <b>Desktop Full-Screen View</b><br>
 Optimized wide-screen layout
 </td>
