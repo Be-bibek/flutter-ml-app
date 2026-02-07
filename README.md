@@ -334,7 +334,7 @@ Directional and emergency controls
 </td>
 
 <td align="center" style="border:1px solid #e5e7eb; border-radius:16px; padding:12px;">
-<img src="chat_interface.jpg" width="300"><br><br>
+<img src="chat_interface.jpg.jpg" width="300"><br><br>
 <b>AI Chat Interface</b><br>
 Offline command & response system
 </td>
@@ -381,6 +381,7 @@ Optimized wide-screen layout
 
 </tr>
 </table>
+
 
 ---
 
