@@ -425,6 +425,10 @@ This project is developed for **educational and experimental purposes**.
 Proper safety measures must be followed during physical deployment.
 
 ---
+> [!WARNING]  
+> **⚖️ LEGAL NOTICE & LICENSE: CC BY-NC 4.0**  
+> **Copyright (c) 2026 Bibek Das. All rights reserved.**  
+> This repository is strictly for **educational and study purposes**. Under the Creative Commons Non-Commercial License, you may read and study this code, but **you are legally prohibited from using this codebase for any commercial purposes**, including startups, monetization, or revenue generation. Unauthorized commercial deployment is strictly tracked and enforced.
 
 ⭐ *Companion Robot demonstrates the feasibility of intelligent, private, and autonomous edge-AI robotics using affordable hardware.*
 
